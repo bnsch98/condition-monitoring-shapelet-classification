@@ -1,6 +1,6 @@
 # Condition Monitoring of Toothed Belt Drives based on Shapelet Classification
 
-This repository serves to present the Bachelor thesis **"Condition Monitoring of Toothed Belt Drives based on Shapelet Classification"**
+This repository serves to present the Bachelor's thesis **"Condition Monitoring of Toothed Belt Drives based on Shapelet Classification"**
 
 ### Keywords
 Time series classification, time series shapelets, feature engineering, decision tree, random forest, bayesian hyperparameter optimization
